@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain_openai
+faiss-cpu
+sentence-transformers
+transformers
+gradio
+pandas
+numpy
