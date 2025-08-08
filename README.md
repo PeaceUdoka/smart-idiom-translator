@@ -1,0 +1,1 @@
+# smart-idiom-translator
