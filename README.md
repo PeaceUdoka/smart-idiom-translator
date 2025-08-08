@@ -11,7 +11,7 @@ The application provides a user-friendly interface powered by Gradio. To use the
 1.  **Run the entire notebook:** Ensure all code cells in the notebook are executed successfully.
 2.  **Access the Gradio interface:** Once the last code cell (containing the Gradio app) is executed, a public URL will be provided. Click on this URL to open the translator in your web browser.
    OR
-Simply copy this <a href ="https://6f73c14d9fd9f57c1f.gradio.live/">url</a> and paste on a browser
+Simply copy this <a href ="https://a36084fd9b6214f493.gradio.live/">url</a> and paste on a browser
 4.  **Enter your Igbo sentence:** In the "Enter Igbo sentence" textbox, type the Igbo sentence containing the idiom you want to translate.
 5.  **Select Meaning Type:** Choose whether you want to see the "Literal" or "Actual" (figurative) meaning of the idiom using the radio buttons.
 6.  **Click "Translate":** Click the "Translate" button to get the translation. The result will appear in the "Meaning" textbox.
